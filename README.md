@@ -7,17 +7,7 @@ Cette application Flutter simule une marketplace agricole avec trois rôles : **
 1. Ouvre le projet dans VS Code ou Android Studio.
 2. Lance `flutter pub get` puis `flutter run` sur un simulateur ou un appareil.
 
-## 👤 Connexion (identifiants mock)
 
-- **Admin**
-  - Email : `admin@agriconnect.com`
-  - Mot de passe : `admin123`
-- **Acheteur**
-  - Email : `alice@agriconnect.com`
-  - Mot de passe : `alice123`
-- **Producteur**
-  - Email : `paul@agriconnect.com`
-  - Mot de passe : `paul123`
 
 ## 🛠️ Fonctionnalités principales
 
